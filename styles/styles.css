@@ -36,3 +36,12 @@
 .sb{
     background-color: yellow;
 }
+/* Cuarto ejercicio ni idea de por que lo separo*/
+.avatar.proportioned{
+    width: 300px;
+    height: 300px;
+}
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+}
