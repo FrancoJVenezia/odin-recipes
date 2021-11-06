@@ -21,3 +21,18 @@
     font-size: 24px;
     font-weight: bold;
 }
+/*pb= Primer boton sb = Segundo boton uwu*/
+
+.pb,
+.sb
+{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.pb{
+    background-color: black;
+    color: white;
+}
+.sb{
+    background-color: yellow;
+}
