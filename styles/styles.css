@@ -5,3 +5,19 @@
     text-align: center;
     font-weight: bold;
 }
+.impar{
+    background-color: rgb(255, 210, 217);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.claseDistinta{
+    font-size: 24px;
+}
+#segundoElemento{
+    color: blue;
+    font-size: 36px;
+}
+#cuartoElemento{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
